@@ -1,4 +1,4 @@
-# sentimental-analysis-of-call-transcripts
+
 # Sentiment Analysis on Call Transcripts
 
 This project provides a web application for performing sentiment analysis on call transcripts using a pre-trained DistilBERT model. The application allows users to upload text files and receive sentiment analysis results in real-time.
